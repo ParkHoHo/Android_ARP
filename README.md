@@ -1,4 +1,8 @@
 # Android_ARP
+** 개발환경 **
+Android Studio - 2022.2.1 Patch2
+Android Emulator - Pixel XL API 31 (Android Version S)
+<br>
 1. 현재 완료 사항
 
 - Main UI 제작
